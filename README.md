@@ -1,4 +1,2 @@
 # Google Clone
-**Hey uh, this was made in less of an hour so you might expect bugs.**
-This is a simple Google clone made with raw HTML, JS, and CSS. **I am not affilited with Google.**
-Do whatever you want with it :P
+This project was made a few years back, and I have nothing to do with it anymore at this point. You can do what you want to do with it, but there is terrible coding. I guess it does get the job done.
